@@ -31,8 +31,7 @@ LT-Spice
 
 
 ### BANDPASS FILTER CIRCUIT DIAGRAM:
-![WhatsApp Image 2025-11-27 at 21 45 01_28495051](https://github.com/user-attachments/assets/dd2a1dae-3ca3-4bea-b3c0-104cfa5379e3)
-
+![WhatsApp Image 2025-11-27 at 21 45 29_4a0aafc4](https://github.com/user-attachments/assets/327c23cf-7f05-4428-bbc7-717f36825466)
 
 
 
