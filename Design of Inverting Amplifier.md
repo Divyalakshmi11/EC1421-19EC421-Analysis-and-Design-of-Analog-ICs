@@ -29,12 +29,14 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
 
 ## CIRCUIT DIAGRAM:
+![WhatsApp Image 2025-11-27 at 13 16 28_4fa7e718](https://github.com/user-attachments/assets/38d1e09c-52cb-4985-b677-ab133bbb1e19)
 
- paste your circuit diagram
+ 
 
 ## MODEL GRAPH:
+![WhatsApp Image 2025-11-27 at 13 17 46_50d948ad](https://github.com/user-attachments/assets/91a62b69-0b0f-4d57-914b-8dd2b5ffe750)
 
- Paste your model graph from observation
+ 
 
 ## PROCEDURE:
  
@@ -48,15 +50,18 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
    
 ## TABULATION:
+![WhatsApp Image 2025-11-27 at 13 17 17_83640323](https://github.com/user-attachments/assets/d17a7da7-13e0-4bfa-b0a3-32d792e67262)
 
- paste your tabulation 
+
 
 ## CALCULATIONS:
 
- 
+ ![WhatsApp Image 2025-11-27 at 13 31 24_f15ac88c](https://github.com/user-attachments/assets/a0a34a04-0bff-4394-b80d-51f44b352c5b)
+
 
 ## GRAPH:
 
+![WhatsApp Image 2025-11-27 at 13 19 00_04533aa5](https://github.com/user-attachments/assets/c5c2b10d-3fea-4c97-a181-d5e7abcbb2b3)
 
 
 ## RESULT:
